@@ -7,4 +7,6 @@ Purpose is to read NHLs Game Feed files in JSON one by one, select a subset of h
 
 I did run into the issue that apparently some of the files are empty. They have some base information, but there are no plays. these files are not written CSV (in case you are wondering why the list is not complete)
 
+To run the code, make sure to turn on the jsonlite package, set your desired workdirectory, set the names of the gamenumber and gamelinknumber to reflect the year, and run it.
+
 Any thoughts? Please let me know, here or on twitter @rjweise
