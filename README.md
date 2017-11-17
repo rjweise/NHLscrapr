@@ -9,4 +9,7 @@ I did run into the issue that apparently some of the files are empty. They have 
 
 To run the code, make sure to turn on the jsonlite package, set your desired workdirectory, set the names of the gamenumber and gamelinknumber to reflect the year, and run it.
 
+
+To combine all game csv's intot one file, use Windowns CMD > copy *.csv combined.scv
+
 Any thoughts? Please let me know, here or on twitter @rjweise
